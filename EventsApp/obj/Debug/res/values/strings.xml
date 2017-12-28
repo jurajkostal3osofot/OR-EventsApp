@@ -1,0 +1,1 @@
+<resources><string name="app_name">EventsApp</string><string-array name="events"><item>Workout</item><item>Football</item><item>Basketball</item><item>Cycling</item><item>Florball</item></string-array></resources>
